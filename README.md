@@ -1,2 +1,2 @@
 # My-App-Portfolio
-app to launch other app developed by you!!! HAPPY DEVELOPING!!
+simple app to launch apps developed in android nanodegree program.
